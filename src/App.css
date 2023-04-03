@@ -1,0 +1,144 @@
+.navbar-shadow{
+    box-shadow: 0px 5px 24px rgba(149, 157, 165, 0.4);
+}
+
+.cart-shadow:hover{
+    box-shadow: 
+    rgba(0, 0, 0, 0.09) 0px 2px 1px, 
+    rgba(0, 0, 0, 0.09) 0px 4px 2px,
+    rgba(0, 0, 0, 0.09) 0px 8px 4px, 
+    rgba(0, 0, 0, 0.09) 0px 16px 8px,
+    rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.buttonContainer button {
+    font-size: 0.9rem;
+    background-color: #1a73e8;
+    border: none;
+    color: #fff;
+    height: 30px;
+    width: 120px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 4px 12px -2px,
+      rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    margin-left: 5px;
+  }
+
+  .smallButton {
+    width: 30px !important;
+    font-size: 1.6rem !important;
+    font-weight: bold;
+    line-height: 30px;
+  }
+
+  .buttonContainer button:hover {
+    background-color: #0b499b;
+  }
+
+  .checkout {
+    display: inline-block;
+    background: #34a853;
+    padding: 7px 16px;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px,
+      rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px,
+      rgba(0, 0, 0, 0.07) 0px 9px 16px;
+  }
+  
+  .checkout:hover {
+    background-color: #167d32;
+  }
+  
+  .clear {
+    cursor: pointer;
+    color: #34a853;
+    background: none;
+    border: none;
+    transition: all 0.2s ease;
+    font-size: 1rem;
+  }
+  
+  .clear:hover {
+    color: #167d32;
+  }
+
+  .checkComp{
+    background-color: #1a73e8;
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    height: 30px;
+    border-radius: 4px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    width: 90px;
+    font-weight: bold;
+    line-height: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 4px 12px -2px,
+      rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    margin-left: 5px;
+  }
+
+  .checkComp:hover{
+    background-color: #08499d;
+  }
+
+.cartBtn button{
+  background-color: #1a73e8;
+  border: none;
+  color: #fff;
+  height: 30px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  width: 30px;
+  font-size: 1.6rem !important;
+  font-weight: bold;
+  line-height: 30px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 4px 12px -2px,
+    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  margin-left: 5px;
+}
+
+.price {
+  display: inline-block;
+  background: #34a853;
+  padding: 7px 16px;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px,
+    rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px,
+    rgba(0, 0, 0, 0.07) 0px 9px 16px;
+}
+
+.backBtn {
+  text-decoration: none;
+  display: inline-block;
+  background: #1a73e8;
+  padding: 7px 16px;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  transition: all 0.2s ease;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px,
+    rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px,
+    rgba(0, 0, 0, 0.07) 0px 9px 16px;
+}
+
+.backBtn:hover{
+  background-color: #0b499b;
+}
+
+  
